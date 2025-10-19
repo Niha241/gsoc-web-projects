@@ -66,6 +66,17 @@
 |48.      | [Salesforce](#48-salesforce)|
 |49.      | [Shaka Player](#49-shaka-player)|
 |50.      | [JBoss Community)](#50-jboss-community)|
+##  GSoC 2024 Web Development Projects
+
+### 51. CircuitVerse
+- **Tech:** HTML, CSS, JavaScript, Rails  
+- **GitHub Repo:** [https://github.com/CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)  
+- **More Info:** [GSoC 2024 - CircuitVerse](https://summerofcode.withgoogle.com/archive/2024/organizations/circuitverse)
+
+## 52. Oppia Foundation
+- Tech: Angular, Python, Cloud  
+- GitHub Repo: [https://github.com/oppia/oppia](https://github.com/oppia/oppia)  
+- More Info:[GSoC 2024 - Oppia](https://summerofcode.withgoogle.com/archive/2024/organizations/oppia)
 <br>
 
 ## 1. Processing Foundation
@@ -577,3 +588,22 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
 - Create and Enhance APIs related to Education Platform (**Javascript, NestJS**)
   <br>
   GitHub Repo [here](https://github.com/codeforcauseorg/edu-server)
+
+## 51. CircuitVerse
+
+- Create test and share logic circuits (**HTML, CSS, JavaScript, Rails**)
+<br> 
+GitHub Repo [here](https://github.com/CircuitVerse/CircuitVerse)  
+
+<br>
+ more info [here](https://summerofcode.withgoogle.com/archive/2024/organizations/circuitverse)
+
+## 52. Oppia Foundation
+
+- Create lessons with questions, hints and feedback for learns(**Angular, Python, Cloud**)
+<br>
+GitHub Repo [here](https://github.com/oppia/oppia)  
+ <br>
+ More Info[here](https://summerofcode.withgoogle.com/archive/2024/organizations/oppia)
+
+
